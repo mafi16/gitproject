@@ -1,5 +1,4 @@
 client_id,gender,age,marital_status,job_position,credit_sum,credit_month,tariff_id,score_shk,education,living_region,monthly_income,credit_count,open_account_flg
-```
-,M,35,Married,Manager,5000.0,12,1,0.5,Bachelor,Moscow,50000,2,1
-2,F,28,Single,Clerk,3000.0,6,2,0.4,High School,St. Petersburg,30000,1,0
-3,M,42,Married,Engineer,8000.0,24,3,0.7,Master,Moscow,70000,0,1
+1,M,35,Married,Manager,5000.0,12,1,0.5,Bachelor,Dushanbe,50000,2,1
+2,F,28,Single,Clerk,3000.0,6,2,0.4,High School,Kulob,30000,1,0
+3,M,42,Married,Engineer,8000.0,24,3,0.7,Master,Rogun,70000,0,1
